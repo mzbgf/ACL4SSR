@@ -10,6 +10,11 @@ on:
   repository_dispatch:  # 通过 API 触发
   watch:  # 监听源仓库更新
 
+# 添加权限配置
+permissions:
+  contents: write  # 允许创建和推送分支
+  pull-requests: write  # 允许创建和更新 PR
+
 jobs:
   update-rules:
     runs-on: ubuntu-latest
@@ -54,13 +59,49 @@ jobs:
           git branch -D release || true
           # 创建新的 release 分支
           git checkout --orphan release
+          # 删除所有文件
+          git rm -rf --cached .
           # 添加规则文件和更新相关文件
-          git add geosite/ geoip/ rule_hashes.json update_report.txt
+          git add -f geosite/ geoip/ rule_hashes.json update_report.txt
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git commit -m "chore: update rules and rule hashes"
 
       - name: Push to release branch
         run: |
           git push origin release --force
+
+      - name: Prepare release files
+        run: |
+          # 创建发布目录
+          mkdir -p release
+          # 复制并重命名规则文件到发布目录
+          for file in geosite/*.list; do
+            if [ -f "$file" ]; then
+              filename=$(basename "$file")
+              cp "$file" "release/geosite-${filename}.list"
+            fi
+          done
+          for file in geoip/*.list; do
+            if [ -f "$file" ]; then
+              filename=$(basename "$file")
+              cp "$file" "release/geoip-${filename}.list"
+            fi
+          done
+          # 创建发布说明
+          echo "# ACL4SSR 规则文件" > release/README.md
+          echo "" >> release/README.md
+          echo "## 规则文件列表" >> release/README.md
+          echo "" >> release/README.md
+          echo "### Geosite 规则" >> release/README.md
+          ls -1 release/geosite-*.list | sed 's/release\/geosite-//' | sed 's/\.list$//' | while read file; do
+            echo "- $file" >> release/README.md
+          done
+          echo "" >> release/README.md
+          echo "### GeoIP 规则" >> release/README.md
+          ls -1 release/geoip-*.list | sed 's/release\/geoip-//' | sed 's/\.list$//' | while read file; do
+            echo "- $file" >> release/README.md
+          done
 
       - name: Create Release
         id: create_release
@@ -70,5 +111,23 @@ jobs:
         with:
           tag_name: v${{ github.run_number }}
           release_name: Release v${{ github.run_number }}
+          body: |
+            ## 更新内容
+            - 更新规则文件
+            - 更新规则哈希值
+            - 更新报告文件
+            
+            ## 文件变更
+            - geosite/ 目录
+            - geoip/ 目录
+            - rule_hashes.json
+            - update_report.txt
+            
+            ## 自动更新
+            此版本由 GitHub Actions 自动生成
           draft: false
-          prerelease: false 
+          prerelease: false
+          generate_release_notes: true
+          files: |
+            release/*.list
+            release/README.md 
