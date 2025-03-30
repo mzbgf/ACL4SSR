@@ -9,6 +9,7 @@ import hashlib
 import json
 from datetime import datetime
 from typing import Dict, List, Optional
+import re
 
 def ensure_dir(directory):
     """确保目录存在，如果不存在则创建"""
@@ -119,6 +120,26 @@ def generate_update_report(updates: Dict[str, List[str]]):
     # 打印报告
     print('\n'.join(report))
 
+def convert_to_classical_format(rule: str) -> str:
+    """将非 classical 格式转换为 classical 格式"""
+    if ',' in rule:
+        return rule
+        
+    # IPv4 地址正则表达式
+    ipv4_pattern = r'^(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)(?:/\d{1,2})?$'
+    # IPv6 地址正则表达式
+    ipv6_pattern = r'^(?:[A-F0-9]{1,4}:){7}[A-F0-9]{1,4}(?:/\d{1,3})?$'
+    
+    # 尝试匹配 IPv4
+    if re.match(ipv4_pattern, rule, re.IGNORECASE):
+        return f"IP-CIDR,{rule}"
+    # 尝试匹配 IPv6
+    elif re.match(ipv6_pattern, rule, re.IGNORECASE):
+        return f"IP-CIDR6,{rule}"
+    # 如果不是 IP 地址，则作为域名处理
+    else:
+        return f"DOMAIN-REGEX,{rule}"
+
 def process_yaml_files():
     """处理 YAML 格式的规则文件"""
     # 处理 geosite 规则
@@ -142,9 +163,9 @@ def process_yaml_files():
                 with open(output_file, 'w', encoding='utf-8') as out:
                     for item in data['payload']:
                         if isinstance(item, str):
-                            # 处理带属性的域名，例如 "example.com:cn"
-                            domain = item.split(':')[0] if ':' in item else item
-                            out.write(f"DOMAIN-SUFFIX,{domain}\n")
+                            # 转换为 classical 格式
+                            classical_rule = convert_to_classical_format(item)
+                            out.write(f"{classical_rule}\n")
                 print(f"已生成 {output_file}")
         except Exception as e:
             print(f"处理 {yaml_file} 时出错: {e}")
@@ -170,7 +191,9 @@ def process_yaml_files():
                 with open(output_file, 'w', encoding='utf-8') as out:
                     for item in data['payload']:
                         if isinstance(item, str):
-                            out.write(f"IP-CIDR,{item}\n")
+                            # 转换为 classical 格式
+                            classical_rule = convert_to_classical_format(item)
+                            out.write(f"{classical_rule}\n")
                 print(f"已生成 {output_file}")
         except Exception as e:
             print(f"处理 {yaml_file} 时出错: {e}")

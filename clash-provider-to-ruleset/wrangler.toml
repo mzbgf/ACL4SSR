@@ -1,0 +1,8 @@
+name = "clash-provider-to-ruleset"
+main = "src/index.js"
+compatibility_date = "2025-03-30"
+workers_dev = true
+preview_urls = false
+
+[placement]
+mode = "smart"

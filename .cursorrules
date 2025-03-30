@@ -4,16 +4,12 @@
 本项目用于自动将 MetaCubeX/meta-rules-dat 中的 YAML 格式规则文件转换为支持 Clash 的 ACL4SSR 规则。通过 Git 子模块管理规则数据，确保规则始终与源仓库保持同步。
 
 ## 规则类型说明
-Clash 支持的规则类型如下：
-- DOMAIN-SUFFIX：域名后缀匹配
-- DOMAIN：域名匹配
-- DOMAIN-KEYWORD：域名关键字匹配
-- IP-CIDR：IP段匹配
-- SRC-IP-CIDR：源IP段匹配
-- GEOIP：GEOIP数据库（国家代码）匹配
-- DST-PORT：目标端口匹配
-- SRC-PORT：源端口匹配
-- MATCH：全匹配（一般放在最后）
+参考 ./clash-rules.html
+
+# 特殊规则:
+- SCRIPT: 应该无法从其他格式的规则转换而来
+- GEOIP: 应该直接从其他规则的GEOIP转化为clash规则的IP-CIDR/IP-CIDR6, 不要转化为GEOIP
+- MATCH: 通常不应该出现在.list文件中, 而是出现在其他规则的末尾
 
 ## 项目结构
 ```
@@ -28,6 +24,7 @@ Clash 支持的规则类型如下：
 │   ├── geosite/       # 域名规则
 │   └── geoip/         # IP 规则
 ├── example.list        # 规则示例文件
+├── clash-rules.html    # Clash 规则说明文档
 ├── generate_rules.py   # 规则生成脚本
 ├── requirements.txt    # Python 依赖文件
 ├── .gitmodules         # Git 子模块配置

@@ -1,0 +1,16 @@
+{
+	"name": "clash-provider-to-ruleset",
+	"version": "0.0.0",
+	"private": true,
+	"scripts": {
+		"deploy": "wrangler deploy",
+		"dev": "wrangler dev",
+		"start": "wrangler dev"
+	},
+	"devDependencies": {
+		"wrangler": "^4.6.0"
+	},
+	"dependencies": {
+		"js-yaml": "^4.1.0"
+	}
+}
