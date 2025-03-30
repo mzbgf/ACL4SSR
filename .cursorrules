@@ -1,0 +1,206 @@
+# ACL4SSR 规则自动生成项目
+
+## 项目简介
+本项目用于自动将 MetaCubeX/meta-rules-dat 中的 YAML 格式规则文件转换为支持 Clash 的 ACL4SSR 规则。通过 Git 子模块管理规则数据，确保规则始终与源仓库保持同步。
+
+## 规则类型说明
+Clash 支持的规则类型如下：
+- DOMAIN-SUFFIX：域名后缀匹配
+- DOMAIN：域名匹配
+- DOMAIN-KEYWORD：域名关键字匹配
+- IP-CIDR：IP段匹配
+- SRC-IP-CIDR：源IP段匹配
+- GEOIP：GEOIP数据库（国家代码）匹配
+- DST-PORT：目标端口匹配
+- SRC-PORT：源端口匹配
+- MATCH：全匹配（一般放在最后）
+
+## 项目结构
+```
+.
+├── .github/              # GitHub Actions 配置
+│   └── workflows/        # 工作流配置文件
+├── geosite/             # geosite 规则目录
+│   └── *.list          # 各国家/地区域名规则
+├── geoip/              # geoip 规则目录
+│   └── *.list         # 各国家/地区 IP 规则
+├── meta-rules-dat/     # 规则数据子模块
+│   ├── geosite/       # 域名规则
+│   └── geoip/         # IP 规则
+├── example.list        # 规则示例文件
+├── generate_rules.py   # 规则生成脚本
+├── requirements.txt    # Python 依赖文件
+├── .gitmodules         # Git 子模块配置
+└── .cursorrules        # 项目说明文件
+```
+
+## 转换规则
+支持的规则转换示例：
+- geosite:cn -> geosite/cn.list（域名规则）
+- geosite:google -> geosite/google.list（域名规则）
+- geosite:apple -> geosite/apple.list（域名规则）
+- geoip:cn -> geoip/cn.list（IP 规则）
+- geoip:private -> geoip/private.list（IP 规则）
+- geoip:telegram -> geoip/telegram.list（IP 规则）
+
+## 数据源
+- 源仓库：https://github.com/MetaCubeX/meta-rules-dat
+- 更新频率：每日自动更新
+- 数据文件：
+  - 使用 Git 子模块管理规则数据
+  - 子模块分支：meta
+  - 规则文件位置：
+    - geosite 规则：meta-rules-dat/geosite/*.yaml
+    - geoip 规则：meta-rules-dat/geoip/*.yaml
+  - 规则格式：YAML
+  - 规则结构：
+    ```yaml
+    payload:
+      - domain1.com
+      - domain2.com:cn  # 带属性的域名
+    ```
+  - 支持的规则类型：
+    - geosite：域名规则（DOMAIN-SUFFIX）
+    - geoip：IP 规则（IP-CIDR）
+  - 子模块更新：
+    - 本地开发：`git submodule update --init --recursive`
+    - GitHub Actions：自动更新到最新版本
+
+## 分支管理
+- main: 主分支，存放源代码和配置文件
+  - 包含子模块配置
+  - 不包含生成的规则文件
+- release: 发布分支，仅包含自动生成的规则文件
+  - 这是一个孤立分支，与主分支无直接关联
+  - 每次生成新规则时，会完全覆盖此分支的内容
+  - 用于存放最新的规则文件
+- meta-rules-dat: 规则数据子模块
+  - 跟踪 meta 分支
+  - 定期更新以获取最新规则
+
+## GitHub Actions 配置
+### 触发条件
+- 定时触发：每日自动更新
+- 手动触发：通过 workflow_dispatch 事件
+- 代码更新：当 main 分支有提交时触发
+- 子模块更新：
+  - 当 meta-rules-dat 子模块有更新时触发
+  - 通过 GitHub 的 repository_dispatch 事件触发
+  - 支持通过 API 手动触发更新
+- 源仓库更新：
+  - 监听 MetaCubeX/meta-rules-dat 仓库的更新
+  - 当源仓库发布新版本时触发
+  - 当源仓库的 meta 分支有更新时触发
+
+### 工作流程
+1. 检出 release 分支和子模块
+2. 更新子模块到最新版本
+3. 解析 YAML 格式的规则文件
+4. 转换为 ACL4SSR 规则格式
+5. 生成对应的 .list 文件
+6. 提交更新到 release 分支
+7. 创建新的 GitHub Release
+
+## 项目进度
+### 已完成
+- [x] 创建基本项目结构
+- [x] 配置 GitHub Actions 工作流
+- [x] 创建规则生成脚本
+- [x] 设置 Python 依赖
+- [x] 测试规则生成脚本
+- [x] 优化规则生成性能
+- [x] 实现规则转换功能
+- [x] 支持规则属性标记
+- [x] 规则文件格式化
+- [x] 添加规则更新检查
+- [x] 优化规则合并逻辑
+
+### 待完成
+- [ ] 配置 GitHub 仓库
+- [ ] 设置分支保护规则
+- [ ] 添加单元测试
+- [ ] 完善错误处理
+- [ ] 添加日志记录
+- [ ] 添加规则统计功能
+- [ ] 优化规则更新报告格式
+- [ ] 添加规则冲突检测
+- [ ] 实现规则分类优化
+- [ ] 添加规则覆盖率统计
+
+## 测试流程
+### 本地测试
+1. 克隆仓库并初始化子模块：
+   ```bash
+   git clone https://github.com/your-username/acl4ssr.git
+   cd acl4ssr
+   git submodule update --init --recursive
+   ```
+
+2. 创建并激活虚拟环境：
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate  # Linux/macOS
+   # 或
+   .\venv\Scripts\activate  # Windows
+   ```
+
+3. 安装依赖：
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. 运行规则生成脚本：
+   ```bash
+   python3 generate_rules.py
+   ```
+
+### 测试内容
+1. 规则文件格式检查
+   - 检查生成的规则文件是否符合 Clash 格式要求
+   - 验证规则类型前缀是否正确（如 DOMAIN-SUFFIX, IP-CIDR 等）
+   - 确保规则内容不包含非法字符
+
+2. 规则更新检查
+   - 验证规则更新检测功能是否正常工作
+   - 检查更新报告是否正确记录变更
+   - 确认哈希值计算和比对功能正常
+
+3. 规则合并检查
+   - 验证重复规则是否被正确处理
+   - 检查带属性的规则是否正确转换
+   - 确保规则去重不影响规则的完整性
+
+4. 输出目录检查
+   - 确认输出目录结构是否正确
+   - 验证文件命名是否符合规范
+   - 检查文件权限是否正确设置
+
+### 测试结果验证
+1. 规则文件完整性
+   - 检查 geosite 目录下的规则文件数量
+   - 检查 geoip 目录下的规则文件数量
+   - 验证规则文件内容是否完整
+
+2. 规则格式正确性
+   - 使用 Clash 核心测试规则文件
+   - 确认规则语法无误
+   - 验证规则可以被正确加载
+
+3. 更新报告审查
+   - 检查 update_report.txt 文件内容
+   - 验证更新记录的准确性
+   - 确认时间戳格式正确
+
+## 注意事项
+- 保持规则文件命名一致性
+  - 使用小写字母
+  - 使用连字符（-）分隔单词
+  - 避免使用特殊字符
+- 确保规则格式符合 Clash 要求
+- 定期检查数据源更新
+- 维护规则文件的可读性
+- 规则文件仅提交至 release 分支，不提交至主分支
+- 子模块管理
+  - 不要直接修改子模块中的文件
+  - 使用 `git submodule update` 更新规则
+  - 确保子模块分支正确（meta）

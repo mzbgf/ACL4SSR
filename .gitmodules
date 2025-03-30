@@ -1,0 +1,5 @@
+[submodule "meta-rules-dat"]
+	path = meta-rules-dat
+	url = https://github.com/MetaCubeX/meta-rules-dat.git
+	branch = meta
+	update = merge
