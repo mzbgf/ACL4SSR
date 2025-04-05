@@ -1,0 +1,5 @@
+DOMAIN-REGEX,+.gannett-cdn.com
+DOMAIN-REGEX,+.gannett.com
+DOMAIN-REGEX,+.gannettdigital.com
+DOMAIN-REGEX,+.usatoday.com
+DOMAIN-REGEX,+.usatodaynetworkservice.com

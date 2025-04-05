@@ -1,0 +1,8 @@
+DOMAIN-REGEX,apple-tv-plus-press.apple.com
+DOMAIN-REGEX,hls-amt.itunes.apple.com
+DOMAIN-REGEX,hls.itunes.apple.com
+DOMAIN-REGEX,np-edge.itunes.apple.com
+DOMAIN-REGEX,play-edge.itunes.apple.com
+DOMAIN-REGEX,tv.applemusic.com
+DOMAIN-REGEX,uts-api.itunes.apple.com
+DOMAIN-REGEX,+.tv.apple.com

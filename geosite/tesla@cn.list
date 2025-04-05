@@ -1,0 +1,5 @@
+DOMAIN-REGEX,+.tesla.cn
+DOMAIN-REGEX,+.tesla.com.cn
+DOMAIN-REGEX,+.teslamotors.cn
+DOMAIN-REGEX,+.teslamotors.com.cn
+DOMAIN-REGEX,tesla-cdn.thron.cn

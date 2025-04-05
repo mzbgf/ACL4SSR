@@ -1,0 +1,14 @@
+DOMAIN-REGEX,+.dnspod.net
+DOMAIN-REGEX,+.dnsv2.com
+DOMAIN-REGEX,+.dnspod.cn
+DOMAIN-REGEX,+.dnspod.com
+DOMAIN-REGEX,+.dot.pub
+DOMAIN-REGEX,+.dnspod.mobi
+DOMAIN-REGEX,+.dnsapi.cn
+DOMAIN-REGEX,+.dns.pub
+DOMAIN-REGEX,+.dnsv4.com
+DOMAIN-REGEX,+.dnsv3.com
+DOMAIN-REGEX,+.dnspod.org
+DOMAIN-REGEX,+.dnsv5.com
+DOMAIN-REGEX,+.doh.pub
+DOMAIN-REGEX,+.dnspod.com.cn

@@ -1,0 +1,8 @@
+DOMAIN-REGEX,+.myshopify.com
+DOMAIN-REGEX,+.shop.app
+DOMAIN-REGEX,+.shopify.com
+DOMAIN-REGEX,+.shopify.dev
+DOMAIN-REGEX,+.shopifycdn.com
+DOMAIN-REGEX,+.shopifycloud.com
+DOMAIN-REGEX,+.shopifystatus.com
+DOMAIN-REGEX,+.shopifysvc.com

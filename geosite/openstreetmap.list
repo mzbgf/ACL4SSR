@@ -1,0 +1,9 @@
+DOMAIN-REGEX,+.openmaps.org
+DOMAIN-REGEX,+.openstreetmap.com
+DOMAIN-REGEX,+.openstreetmap.net
+DOMAIN-REGEX,+.openstreetmap.org
+DOMAIN-REGEX,+.openstreetmaps.org
+DOMAIN-REGEX,+.osm.org
+DOMAIN-REGEX,+.osmfoundation.org
+DOMAIN-REGEX,+.stateofthemap.com
+DOMAIN-REGEX,+.stateofthemap.org

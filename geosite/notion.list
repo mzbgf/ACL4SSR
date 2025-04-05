@@ -1,0 +1,6 @@
+DOMAIN-REGEX,+.notion-static.com
+DOMAIN-REGEX,+.notion.com
+DOMAIN-REGEX,+.notion.new
+DOMAIN-REGEX,+.notion.site
+DOMAIN-REGEX,+.notion.so
+DOMAIN-REGEX,+.notionusercontent.com

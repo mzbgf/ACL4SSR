@@ -1,0 +1,4 @@
+DOMAIN-REGEX,+.mikrotik.com
+DOMAIN-REGEX,+.mt.lv
+DOMAIN-REGEX,+.mynetname.net
+DOMAIN-REGEX,+.routerboard.com

@@ -1,0 +1,4 @@
+DOMAIN-REGEX,+.hecdn.net
+DOMAIN-REGEX,+.heweather.net
+DOMAIN-REGEX,+.qweather.com
+DOMAIN-REGEX,+.qweather.net

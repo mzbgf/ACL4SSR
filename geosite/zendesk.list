@@ -1,0 +1,6 @@
+DOMAIN-REGEX,+.outbound.io
+DOMAIN-REGEX,+.zdassets.com
+DOMAIN-REGEX,+.zdusercontent.com
+DOMAIN-REGEX,+.zendesk.com
+DOMAIN-REGEX,+.zndsk.com
+DOMAIN-REGEX,+.zopim.com

@@ -1,0 +1,4 @@
+DOMAIN-REGEX,+.sourceforge.com
+DOMAIN-REGEX,+.sourceforge.net
+DOMAIN-REGEX,+.sf.net
+DOMAIN-REGEX,+.fsdn.com

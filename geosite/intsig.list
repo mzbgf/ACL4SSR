@@ -1,0 +1,5 @@
+DOMAIN-REGEX,+.intsig.com
+DOMAIN-REGEX,+.intsig.net
+DOMAIN-REGEX,+.camscanner.com
+DOMAIN-REGEX,+.camcard.com
+DOMAIN-REGEX,+.qixin.com

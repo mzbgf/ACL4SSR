@@ -1,0 +1,5 @@
+DOMAIN-REGEX,+.clarivate.com
+DOMAIN-REGEX,+.webofknowledge.com
+DOMAIN-REGEX,+.webofscience.com
+DOMAIN-REGEX,+.newisiknowledge.com
+DOMAIN-REGEX,+.isiknowledge.com

@@ -1,0 +1,9 @@
+DOMAIN-REGEX,mdn.mozillademos.org
+DOMAIN-REGEX,+.mdn.dev
+DOMAIN-REGEX,+.mdnplay.dev
+DOMAIN-REGEX,+.mdnyalp.dev
+DOMAIN-REGEX,+.developer.allizom.org
+DOMAIN-REGEX,+.developer.mozilla.org
+DOMAIN-REGEX,+.mdn.allizom.net
+DOMAIN-REGEX,+.mdn.mozilla.net
+DOMAIN-REGEX,+.mdn.mozit.cloud

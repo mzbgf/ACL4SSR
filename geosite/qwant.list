@@ -1,0 +1,4 @@
+DOMAIN-REGEX,+.qwant.com
+DOMAIN-REGEX,+.qwant.de
+DOMAIN-REGEX,+.qwant.fr
+DOMAIN-REGEX,+.qwant.it

@@ -1,0 +1,12 @@
+DOMAIN-REGEX,+.heroku.co
+DOMAIN-REGEX,+.heroku.com
+DOMAIN-REGEX,+.heroku.me
+DOMAIN-REGEX,+.herokuapp.com
+DOMAIN-REGEX,+.herokucdn.com
+DOMAIN-REGEX,+.herokucharge.com
+DOMAIN-REGEX,+.herokussl.com
+DOMAIN-REGEX,+.heroku-app.com
+DOMAIN-REGEX,+.heroku-charge.com
+DOMAIN-REGEX,+.codei.sh
+DOMAIN-REGEX,+.codeish.co
+DOMAIN-REGEX,+.codeish.io

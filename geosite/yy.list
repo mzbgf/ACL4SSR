@@ -1,0 +1,4 @@
+DOMAIN-REGEX,+.yy.com
+DOMAIN-REGEX,+.yystatic.com
+DOMAIN-REGEX,+.duowan.com
+DOMAIN-REGEX,+.dwstatic.com

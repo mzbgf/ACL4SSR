@@ -1,0 +1,4 @@
+DOMAIN-REGEX,+.ccstatic.org
+DOMAIN-REGEX,+.creativecommons.org
+DOMAIN-REGEX,+.creativecommons.engineering
+DOMAIN-REGEX,+.licensebuttons.net

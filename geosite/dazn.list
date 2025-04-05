@@ -1,0 +1,5 @@
+DOMAIN-REGEX,+.dazn-api.com
+DOMAIN-REGEX,+.dazn.com
+DOMAIN-REGEX,+.dazndn.com
+DOMAIN-REGEX,+.indazn.com
+DOMAIN-REGEX,+.indaznlab.com

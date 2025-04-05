@@ -1,0 +1,10 @@
+DOMAIN-REGEX,+.qbox.me
+DOMAIN-REGEX,+.qiniu.com
+DOMAIN-REGEX,+.qiniucdn.com
+DOMAIN-REGEX,+.qiniudn.com
+DOMAIN-REGEX,+.qiniudns.com
+DOMAIN-REGEX,+.qiniup.com
+DOMAIN-REGEX,+.qnsdk.com
+DOMAIN-REGEX,+.qnssl.com
+DOMAIN-REGEX,+.staticfile.net
+DOMAIN-REGEX,+.staticfile.org

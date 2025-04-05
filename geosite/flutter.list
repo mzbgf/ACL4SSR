@@ -1,0 +1,3 @@
+DOMAIN-REGEX,+.flutter.dev
+DOMAIN-REGEX,+.flutterapp.com
+DOMAIN-REGEX,+.pub.dev

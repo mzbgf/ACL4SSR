@@ -1,0 +1,7 @@
+DOMAIN-REGEX,+.hk.weibo.com
+DOMAIN-REGEX,+.my.weibo.com
+DOMAIN-REGEX,+.overseas.weibo.com
+DOMAIN-REGEX,+.sg.weibo.com
+DOMAIN-REGEX,+.th.weibo.com
+DOMAIN-REGEX,+.tw.weibo.com
+DOMAIN-REGEX,+.us.weibo.com

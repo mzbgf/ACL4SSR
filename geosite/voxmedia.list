@@ -1,0 +1,16 @@
+DOMAIN-REGEX,+.cstatic.net
+DOMAIN-REGEX,+.curbed.com
+DOMAIN-REGEX,+.eater.com
+DOMAIN-REGEX,+.funnyordie.com
+DOMAIN-REGEX,+.meridian.net
+DOMAIN-REGEX,+.polygon.com
+DOMAIN-REGEX,+.racked.com
+DOMAIN-REGEX,+.recode.net
+DOMAIN-REGEX,+.sbnation.com
+DOMAIN-REGEX,+.theverge.com
+DOMAIN-REGEX,+.vox-cdn.com
+DOMAIN-REGEX,+.vox.com
+DOMAIN-REGEX,+.voxcreative.com
+DOMAIN-REGEX,+.voxfieldguide.com
+DOMAIN-REGEX,+.voxmedia.com
+DOMAIN-REGEX,+.voxops.net

@@ -1,0 +1,4 @@
+DOMAIN-REGEX,+.kaggle.com
+DOMAIN-REGEX,+.kaggle.io
+DOMAIN-REGEX,+.kaggle.net
+DOMAIN-REGEX,+.kaggleusercontent.com

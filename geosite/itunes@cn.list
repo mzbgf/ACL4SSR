@@ -1,0 +1,5 @@
+DOMAIN-REGEX,+.apple-itunes.cn
+DOMAIN-REGEX,+.itunes-apple.cn
+DOMAIN-REGEX,+.itunesapple.cn
+DOMAIN-REGEX,+.itunesradio.cn
+DOMAIN-REGEX,+.itunesradio.com.cn

@@ -1,0 +1,5 @@
+DOMAIN-REGEX,+.oemssl.cn
+DOMAIN-REGEX,+.oemssl.cn.cdn.cloudflare.net
+DOMAIN-REGEX,+.sectigochina.com
+DOMAIN-REGEX,+.sectigochina.com.cdn.cloudflare.net
+DOMAIN-REGEX,+.trust-provider.cn

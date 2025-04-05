@@ -1,0 +1,14 @@
+DOMAIN-REGEX,+.cell.com
+DOMAIN-REGEX,+.clinicalkey.com
+DOMAIN-REGEX,+.els-cdn.com
+DOMAIN-REGEX,+.elsevier-ae.com
+DOMAIN-REGEX,+.elsevier.com
+DOMAIN-REGEX,+.elsevier.io
+DOMAIN-REGEX,+.engineeringvillage.com
+DOMAIN-REGEX,+.evise.com
+DOMAIN-REGEX,+.fundinginstitutional.com
+DOMAIN-REGEX,+.knovel.com
+DOMAIN-REGEX,+.mendeley.com
+DOMAIN-REGEX,+.reaxys.com
+DOMAIN-REGEX,+.scival.com
+DOMAIN-REGEX,+.scopus.com

@@ -1,0 +1,5 @@
+DOMAIN-REGEX,client-teamviewer-com.trafficmanager.net
+DOMAIN-REGEX,teamviewer.com.cdn.cloudflare.net
+DOMAIN-REGEX,+.teamviewer.com
+DOMAIN-REGEX,+.teamviewer.us
+DOMAIN-REGEX,+.teamviewer.cn

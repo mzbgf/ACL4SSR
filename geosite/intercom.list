@@ -1,0 +1,4 @@
+DOMAIN-REGEX,+.intercom.com
+DOMAIN-REGEX,+.intercom.io
+DOMAIN-REGEX,+.intercomassets.com
+DOMAIN-REGEX,+.intercomcdn.com

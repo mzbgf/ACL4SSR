@@ -1,0 +1,3 @@
+DOMAIN-REGEX,+.imgur.com
+DOMAIN-REGEX,+.imgur.io
+DOMAIN-REGEX,+.imgurinc.com

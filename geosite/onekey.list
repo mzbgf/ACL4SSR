@@ -1,0 +1,4 @@
+DOMAIN-REGEX,onekey.zendesk.com
+DOMAIN-REGEX,+.onekey-asset.com
+DOMAIN-REGEX,+.onekey.so
+DOMAIN-REGEX,+.onekeycn.com

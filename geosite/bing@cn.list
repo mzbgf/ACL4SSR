@@ -1,0 +1,7 @@
+DOMAIN-REGEX,+.bing.com.cn
+DOMAIN-REGEX,+.cn.bing.com
+DOMAIN-REGEX,+.cn.bing.net
+DOMAIN-REGEX,+.cn.mm.bing.net
+DOMAIN-REGEX,+.ditu.live.com
+DOMAIN-REGEX,bj1.api.bing.com
+DOMAIN-REGEX,emoi-cncdn.bing.com

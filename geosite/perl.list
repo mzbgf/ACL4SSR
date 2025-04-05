@@ -1,0 +1,5 @@
+DOMAIN-REGEX,+.perl.org
+DOMAIN-REGEX,+.cpan.org
+DOMAIN-REGEX,+.metacpan.org
+DOMAIN-REGEX,+.modperl.pl
+DOMAIN-REGEX,+.perl.apache.org

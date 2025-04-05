@@ -1,0 +1,5 @@
+DOMAIN-REGEX,+.gate.io
+DOMAIN-REGEX,+.gatedata.org
+DOMAIN-REGEX,+.gateimg.com
+DOMAIN-REGEX,+.gateio.live
+DOMAIN-REGEX,+.gateio.services

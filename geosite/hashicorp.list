@@ -1,0 +1,8 @@
+DOMAIN-REGEX,+.consul.io
+DOMAIN-REGEX,+.hashicorp.com
+DOMAIN-REGEX,+.nomadproject.io
+DOMAIN-REGEX,+.packer.io
+DOMAIN-REGEX,+.terraform.io
+DOMAIN-REGEX,+.vagrantcloud.com
+DOMAIN-REGEX,+.vagrantup.com
+DOMAIN-REGEX,+.vaultproject.io

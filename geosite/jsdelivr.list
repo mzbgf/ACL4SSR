@@ -1,0 +1,4 @@
+DOMAIN-REGEX,cdn.jsdelivr.net
+DOMAIN-REGEX,+.jsdelivr.com
+DOMAIN-REGEX,+.jsdelivr.net
+DOMAIN-REGEX,+.esm.run

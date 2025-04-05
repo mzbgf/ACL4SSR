@@ -1,0 +1,6 @@
+DOMAIN-REGEX,+.deepin.cn
+DOMAIN-REGEX,+.deepin.com
+DOMAIN-REGEX,+.deepin.io
+DOMAIN-REGEX,+.deepin.org
+DOMAIN-REGEX,+.chinauos.com
+DOMAIN-REGEX,+.uniontech.com

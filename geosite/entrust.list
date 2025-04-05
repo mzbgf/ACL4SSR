@@ -1,0 +1,10 @@
+DOMAIN-REGEX,+.entrust.cn
+DOMAIN-REGEX,+.entrust.com
+DOMAIN-REGEX,+.entrust.net
+DOMAIN-REGEX,+.entrustdatacard.com
+DOMAIN-REGEX,+.affirmtrust.com
+DOMAIN-REGEX,+.atos.net
+DOMAIN-REGEX,+.myatos.net
+DOMAIN-REGEX,+.certificat2.com
+DOMAIN-REGEX,+.trendmicro.com
+DOMAIN-REGEX,www.entrust.cn

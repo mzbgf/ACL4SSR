@@ -1,0 +1,3 @@
+DOMAIN-REGEX,+.tailscale.com
+DOMAIN-REGEX,+.tailscale.io
+DOMAIN-REGEX,+.ts.net

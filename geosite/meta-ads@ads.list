@@ -1,0 +1,6 @@
+DOMAIN-REGEX,+.analytics.facebook.com
+DOMAIN-REGEX,+.pixel.facebook.com
+DOMAIN-REGEX,+.graph.instagram.com
+DOMAIN-REGEX,+.graph-fallback.instagram.com
+DOMAIN-REGEX,+.graph.whatsapp.com
+DOMAIN-REGEX,+.graph.whatsapp.net

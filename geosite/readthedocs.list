@@ -1,0 +1,4 @@
+DOMAIN-REGEX,+.readthedocs-hosted.com
+DOMAIN-REGEX,+.readthedocs.com
+DOMAIN-REGEX,+.readthedocs.io
+DOMAIN-REGEX,+.readthedocs.org

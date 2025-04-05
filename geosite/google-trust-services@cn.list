@@ -1,0 +1,7 @@
+DOMAIN-REGEX,pki-goog.l.google.com
+DOMAIN-REGEX,c.pki.goog
+DOMAIN-REGEX,i.pki.goog
+DOMAIN-REGEX,o.pki.goog
+DOMAIN-REGEX,crl.pki.goog
+DOMAIN-REGEX,crls.pki.goog
+DOMAIN-REGEX,ocsp.pki.goog

@@ -1,0 +1,5 @@
+DOMAIN-REGEX,+.link.com
+DOMAIN-REGEX,+.stripe-terminal-local-reader.net
+DOMAIN-REGEX,+.stripe.com
+DOMAIN-REGEX,+.stripe.network
+DOMAIN-REGEX,+.stripecdn.com

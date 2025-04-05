@@ -1,0 +1,4 @@
+DOMAIN-REGEX,servd-anthropic-website.b-cdn.net
+DOMAIN-REGEX,+.anthropic.com
+DOMAIN-REGEX,+.claude.ai
+DOMAIN-REGEX,+.claudeusercontent.com

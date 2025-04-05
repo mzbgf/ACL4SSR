@@ -1,0 +1,2 @@
+DOMAIN-REGEX,+.fastlane.ci
+DOMAIN-REGEX,+.fastlane.tools

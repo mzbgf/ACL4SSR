@@ -1,0 +1,16 @@
+DOMAIN-REGEX,+.webex.ca
+DOMAIN-REGEX,+.webex.fr
+DOMAIN-REGEX,+.webex.es
+DOMAIN-REGEX,+.webex.de
+DOMAIN-REGEX,+.webex.com
+DOMAIN-REGEX,+.webex.co.uk
+DOMAIN-REGEX,+.webex.co.nz
+DOMAIN-REGEX,+.webex.co.kr
+DOMAIN-REGEX,+.webex.com.au
+DOMAIN-REGEX,+.webex.com.br
+DOMAIN-REGEX,+.webex.com.hk
+DOMAIN-REGEX,+.webex.com.mx
+DOMAIN-REGEX,+.webex.co.jp
+DOMAIN-REGEX,+.webex.co.it
+DOMAIN-REGEX,+.webex.co.in
+DOMAIN-REGEX,+.webex.com.cn

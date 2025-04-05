@@ -1,0 +1,9 @@
+DOMAIN-REGEX,+.cnn.com
+DOMAIN-REGEX,+.cnn.io
+DOMAIN-REGEX,+.cnn.it
+DOMAIN-REGEX,+.cnnarabic.com
+DOMAIN-REGEX,+.cnnlabs.com
+DOMAIN-REGEX,+.cnnmoney.ch
+DOMAIN-REGEX,+.cnnmoney.com
+DOMAIN-REGEX,+.cnnmoneystream.com
+DOMAIN-REGEX,+.cnnpolitics.com

@@ -1,0 +1,7 @@
+DOMAIN-REGEX,+.asktug.com
+DOMAIN-REGEX,+.pingcap.cn
+DOMAIN-REGEX,+.pingcap.com
+DOMAIN-REGEX,+.tidb.ai
+DOMAIN-REGEX,+.tidb.net
+DOMAIN-REGEX,+.tidbcloud.com
+DOMAIN-REGEX,+.tikv.org

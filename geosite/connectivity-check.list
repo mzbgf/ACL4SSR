@@ -1,0 +1,12 @@
+DOMAIN-REGEX,connectivitycheck.platform.hihonorcloud.com
+DOMAIN-REGEX,connectivitycheck.platform.hicloud.com
+DOMAIN-REGEX,connect.rom.miui.com
+DOMAIN-REGEX,+.msftconnecttest.com
+DOMAIN-REGEX,+.msftncsi.com
+DOMAIN-REGEX,+.ping.archlinux.org
+DOMAIN-REGEX,+.captive.apple.com
+DOMAIN-REGEX,+.connectivitycheck.gstatic.com
+DOMAIN-REGEX,+.cp.cloudflare.com
+DOMAIN-REGEX,+.network-test.debian.org
+DOMAIN-REGEX,+.detectportal.firefox.com
+DOMAIN-REGEX,+.networkcheck.kde.org

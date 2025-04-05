@@ -1,0 +1,3 @@
+DOMAIN-REGEX,+.termux.com
+DOMAIN-REGEX,+.termux.dev
+DOMAIN-REGEX,+.termux.org

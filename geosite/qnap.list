@@ -1,0 +1,6 @@
+DOMAIN-REGEX,+.myqnapcloud.com
+DOMAIN-REGEX,+.qlink.to
+DOMAIN-REGEX,+.qnap.com
+DOMAIN-REGEX,+.myqnapcloud.cn
+DOMAIN-REGEX,+.qlinkto.cn
+DOMAIN-REGEX,+.qnap.com.cn

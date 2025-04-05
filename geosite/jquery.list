@@ -1,0 +1,3 @@
+DOMAIN-REGEX,+.jquery.com
+DOMAIN-REGEX,+.jquerymobile.com
+DOMAIN-REGEX,+.jqueryui.com

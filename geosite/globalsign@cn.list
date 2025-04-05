@@ -1,0 +1,7 @@
+DOMAIN-REGEX,+.alphassl.com
+DOMAIN-REGEX,+.easy-signing.com
+DOMAIN-REGEX,+.globalsign.cn
+DOMAIN-REGEX,+.globalsign.com
+DOMAIN-REGEX,+.globalsigncdn.com
+DOMAIN-REGEX,cdn.globalsigncdn.com.cdn.cloudflare.net
+DOMAIN-REGEX,crl.globalsign.net

@@ -1,0 +1,14 @@
+DOMAIN-REGEX,bcovlive-a.akamaihd.net
+DOMAIN-REGEX,bcsecure01-a.akamaihd.net
+DOMAIN-REGEX,brightcove.imgix.net
+DOMAIN-REGEX,+.bcove.video
+DOMAIN-REGEX,+.bcovlive.io
+DOMAIN-REGEX,+.bcvp0rtal.com
+DOMAIN-REGEX,+.boltdns.net
+DOMAIN-REGEX,+.brightcove.com
+DOMAIN-REGEX,+.brightcove.net
+DOMAIN-REGEX,+.brightcove.services
+DOMAIN-REGEX,+.brightcovecdn.com
+DOMAIN-REGEX,+.videojs.com
+DOMAIN-REGEX,+.zencdn.net
+DOMAIN-REGEX,+.zencoder.com

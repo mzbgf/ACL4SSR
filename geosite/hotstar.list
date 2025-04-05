@@ -1,0 +1,5 @@
+DOMAIN-REGEX,+.hotstar.com
+DOMAIN-REGEX,+.hotstar-cdn.net
+DOMAIN-REGEX,+.hotstar-labs.com
+DOMAIN-REGEX,+.hotstarext.com
+DOMAIN-REGEX,+.hsprepack.akamaized.net

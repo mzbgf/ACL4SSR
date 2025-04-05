@@ -1,0 +1,4 @@
+DOMAIN-REGEX,+.nexon.com
+DOMAIN-REGEX,+.nexon.io
+DOMAIN-REGEX,+.nexon.co.jp
+DOMAIN-REGEX,+.nexoncdn.co.kr

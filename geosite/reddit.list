@@ -1,0 +1,12 @@
+DOMAIN-REGEX,+.redd.it
+DOMAIN-REGEX,+.reddit.com
+DOMAIN-REGEX,+.redditblog.com
+DOMAIN-REGEX,+.reddithelp.com
+DOMAIN-REGEX,+.redditinc.com
+DOMAIN-REGEX,+.redditmail.com
+DOMAIN-REGEX,+.redditmedia.com
+DOMAIN-REGEX,+.redditspace.com
+DOMAIN-REGEX,+.redditstatic.com
+DOMAIN-REGEX,+.redditstatus.com
+DOMAIN-REGEX,+.reddit.app.link
+DOMAIN-REGEX,+.reddit.map.fastly.net

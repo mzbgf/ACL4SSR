@@ -1,0 +1,4 @@
+DOMAIN-REGEX,+.geforce.cn
+DOMAIN-REGEX,+.gputechconf.cn
+DOMAIN-REGEX,+.nvidia.cn
+DOMAIN-REGEX,cn.download.nvidia.com

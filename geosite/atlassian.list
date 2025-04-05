@@ -1,0 +1,7 @@
+DOMAIN-REGEX,+.atlassian.com
+DOMAIN-REGEX,+.atlassian.net
+DOMAIN-REGEX,+.bitbucket.io
+DOMAIN-REGEX,+.bitbucket.org
+DOMAIN-REGEX,+.statuspage.io
+DOMAIN-REGEX,+.trello.com
+DOMAIN-REGEX,+.trellocdn.com

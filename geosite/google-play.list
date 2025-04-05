@@ -1,0 +1,8 @@
+DOMAIN-REGEX,+.googleplay.com
+DOMAIN-REGEX,+.xn--ngstr-lra8j.com
+DOMAIN-REGEX,+.play-fe.googleapis.com
+DOMAIN-REGEX,+.play-games.googleusercontent.com
+DOMAIN-REGEX,+.play-lh.googleusercontent.com
+DOMAIN-REGEX,+.play.google.com
+DOMAIN-REGEX,+.play.googleapis.com
+DOMAIN-REGEX,redirector.c.play.google.com

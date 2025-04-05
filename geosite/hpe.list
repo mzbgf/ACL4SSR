@@ -1,0 +1,16 @@
+DOMAIN-REGEX,hpefonts.s3.amazonaws.com
+DOMAIN-REGEX,+.hewlett-packard.co
+DOMAIN-REGEX,+.hewlett-packard.jp
+DOMAIN-REGEX,+.hewlett-packard.asia
+DOMAIN-REGEX,+.hewlett-packard.ch
+DOMAIN-REGEX,+.hpecyber.com
+DOMAIN-REGEX,+.hpe.com
+DOMAIN-REGEX,+.greenlakehybridcloud.com
+DOMAIN-REGEX,+.hewlettpackard.enterprises
+DOMAIN-REGEX,+.greenlakeaas.com
+DOMAIN-REGEX,+.hewlett-packard.mobi
+DOMAIN-REGEX,+.hewlett-packard.co.il
+DOMAIN-REGEX,+.hewlett-packard.com.sg
+DOMAIN-REGEX,+.hewlett-packard.com.mx
+DOMAIN-REGEX,+.hewlett-packard.co.uk
+DOMAIN-REGEX,+.hewlett-packard.com.cn

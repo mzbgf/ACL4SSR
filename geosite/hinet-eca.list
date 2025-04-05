@@ -1,0 +1,5 @@
+DOMAIN-REGEX,+.eca.hinet.net
+DOMAIN-REGEX,+.pki.hinet.net
+DOMAIN-REGEX,+.publicca.hinet.net
+DOMAIN-REGEX,+.tls.hinet.net
+DOMAIN-REGEX,+.gtlsca.nat.gov.tw

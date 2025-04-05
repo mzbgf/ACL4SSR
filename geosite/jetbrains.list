@@ -1,0 +1,12 @@
+DOMAIN-REGEX,+.intellij.com
+DOMAIN-REGEX,+.intellij.net
+DOMAIN-REGEX,+.intellij.org
+DOMAIN-REGEX,+.jetbrains.com
+DOMAIN-REGEX,+.jetbrains.net
+DOMAIN-REGEX,+.jetbrains.space
+DOMAIN-REGEX,+.jetbrains.team
+DOMAIN-REGEX,+.datalore.io
+DOMAIN-REGEX,+.kotlinlang.org
+DOMAIN-REGEX,+.jb.gg
+DOMAIN-REGEX,+.cdn.jetbrains.com
+DOMAIN-REGEX,+.download-cdn.jetbrains.com.cn

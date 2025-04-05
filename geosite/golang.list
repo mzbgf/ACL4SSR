@@ -1,0 +1,8 @@
+DOMAIN-REGEX,+.go-lang.com
+DOMAIN-REGEX,+.go-lang.net
+DOMAIN-REGEX,+.go-lang.org
+DOMAIN-REGEX,+.go.dev
+DOMAIN-REGEX,+.godoc.org
+DOMAIN-REGEX,+.golang.com
+DOMAIN-REGEX,+.golang.net
+DOMAIN-REGEX,+.golang.org

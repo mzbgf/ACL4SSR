@@ -1,0 +1,7 @@
+DOMAIN-REGEX,impala-media-production.s3.amazonaws.com
+DOMAIN-REGEX,+.sc-cdn.net
+DOMAIN-REGEX,+.snap-dev.net
+DOMAIN-REGEX,+.snap.com
+DOMAIN-REGEX,+.snapchat.com
+DOMAIN-REGEX,+.snapkit.co
+DOMAIN-REGEX,+.snapads.com

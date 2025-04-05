@@ -1,0 +1,15 @@
+DOMAIN-REGEX,+.a.market.xiaomi.com
+DOMAIN-REGEX,+.ad.intl.xiaomi.com
+DOMAIN-REGEX,+.ad.mi.com
+DOMAIN-REGEX,+.ad.xiaomi.com
+DOMAIN-REGEX,+.ad1.xiaomi.com
+DOMAIN-REGEX,+.admob.xiaomi.com
+DOMAIN-REGEX,+.adv.sec.intl.miui.com
+DOMAIN-REGEX,+.adv.sec.miui.com
+DOMAIN-REGEX,+.misc.in.duokanbox.com
+DOMAIN-REGEX,+.mistat.xiaomi.com
+DOMAIN-REGEX,+.sentry.d.mi.com
+DOMAIN-REGEX,+.sentry.d.xiaomi.net
+DOMAIN-REGEX,+.tjqonline.cn
+DOMAIN-REGEX,+.tracker.ai.xiaomi.com
+DOMAIN-REGEX,+.tracking.miui.com

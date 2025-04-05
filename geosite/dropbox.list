@@ -1,0 +1,16 @@
+DOMAIN-REGEX,paper-attachments.s3.amazonaws.com
+DOMAIN-REGEX,+.db.tt
+DOMAIN-REGEX,+.dropbox-dns.com
+DOMAIN-REGEX,+.dropbox.com
+DOMAIN-REGEX,+.dropbox.tech
+DOMAIN-REGEX,+.dropboxapi.com
+DOMAIN-REGEX,+.dropboxbusiness.com
+DOMAIN-REGEX,+.dropboxcaptcha.com
+DOMAIN-REGEX,+.dropboxforum.com
+DOMAIN-REGEX,+.dropboxforums.com
+DOMAIN-REGEX,+.dropboxinsiders.com
+DOMAIN-REGEX,+.dropboxmail.com
+DOMAIN-REGEX,+.dropboxpartners.com
+DOMAIN-REGEX,+.dropboxstatic.com
+DOMAIN-REGEX,+.dropboxusercontent.com
+DOMAIN-REGEX,+.getdropbox.com

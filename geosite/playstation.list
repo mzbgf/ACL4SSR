@@ -1,0 +1,4 @@
+DOMAIN-REGEX,+.playstation
+DOMAIN-REGEX,+.playstation.com
+DOMAIN-REGEX,+.playstation.net
+DOMAIN-REGEX,+.sonyentertainmentnetwork.com

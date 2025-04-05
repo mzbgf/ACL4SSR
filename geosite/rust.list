@@ -1,0 +1,4 @@
+DOMAIN-REGEX,+.rust-lang.org
+DOMAIN-REGEX,+.rustup.rs
+DOMAIN-REGEX,+.crates.io
+DOMAIN-REGEX,+.docs.rs

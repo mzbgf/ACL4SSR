@@ -1,0 +1,11 @@
+DOMAIN-REGEX,+.slack-core.com
+DOMAIN-REGEX,+.slack-edge.com
+DOMAIN-REGEX,+.slack-files.com
+DOMAIN-REGEX,+.slack-imgs.com
+DOMAIN-REGEX,+.slack-msgs.com
+DOMAIN-REGEX,+.slack-redir.net
+DOMAIN-REGEX,+.slack.com
+DOMAIN-REGEX,+.slackb.com
+DOMAIN-REGEX,+.slackcertified.com
+DOMAIN-REGEX,+.slackdemo.com
+DOMAIN-REGEX,+.slackhq.com

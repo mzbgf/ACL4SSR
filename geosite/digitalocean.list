@@ -1,0 +1,4 @@
+DOMAIN-REGEX,+.digitalocean.com
+DOMAIN-REGEX,+.digitaloceanspaces.com
+DOMAIN-REGEX,+.do.co
+DOMAIN-REGEX,+.nginxconfig.io

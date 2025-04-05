@@ -1,0 +1,6 @@
+DOMAIN-REGEX,+.starott.com
+DOMAIN-REGEX,+.starplus.com
+DOMAIN-REGEX,+.star.api.edge.bamgrid.com
+DOMAIN-REGEX,+.star.connections.edge.bamgrid.com
+DOMAIN-REGEX,+.star.content.edge.bamgrid.com
+DOMAIN-REGEX,+.star.playback.edge.bamgrid.com

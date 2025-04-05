@@ -1,0 +1,4 @@
+DOMAIN-REGEX,+.bitwarden.com
+DOMAIN-REGEX,+.bitwarden.eu
+DOMAIN-REGEX,+.bitwarden.net
+DOMAIN-REGEX,+.btwrdn.com

@@ -1,0 +1,13 @@
+DOMAIN-REGEX,+.first-ns.de
+DOMAIN-REGEX,+.hetzner.cloud
+DOMAIN-REGEX,+.hetzner.com
+DOMAIN-REGEX,+.hetzner.company
+DOMAIN-REGEX,+.hetzner.de
+DOMAIN-REGEX,+.htznr.li
+DOMAIN-REGEX,+.second-ns.com
+DOMAIN-REGEX,+.second-ns.de
+DOMAIN-REGEX,+.your-objectstorage.com
+DOMAIN-REGEX,+.your-server.de
+DOMAIN-REGEX,+.your-storagebox.de
+DOMAIN-REGEX,+.your-storageshare.de
+DOMAIN-REGEX,sentry.hetzner.company

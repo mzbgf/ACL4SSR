@@ -1,0 +1,5 @@
+DOMAIN-REGEX,+.buypass-ssl.com
+DOMAIN-REGEX,+.buypass.com
+DOMAIN-REGEX,+.buypass.no
+DOMAIN-REGEX,+.buypass.se
+DOMAIN-REGEX,+.minid.no

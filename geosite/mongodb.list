@@ -1,0 +1,2 @@
+DOMAIN-REGEX,+.mongodb.com
+DOMAIN-REGEX,+.mongodb.org

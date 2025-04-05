@@ -1,0 +1,8 @@
+DOMAIN-REGEX,ubisoft-uplay-savegames.s3.amazonaws.com
+DOMAIN-REGEX,ubisoft-orbit-savegames.s3.amazonaws.com
+DOMAIN-REGEX,ubistatic3-a.akamaihd.net
+DOMAIN-REGEX,+.ubi.com
+DOMAIN-REGEX,+.ubisoft.com
+DOMAIN-REGEX,+.ubisoftconnect.com
+DOMAIN-REGEX,+.uplay.com
+DOMAIN-REGEX,uplaypc-s-ubisoft.cdn.ubi.com

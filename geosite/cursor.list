@@ -1,0 +1,4 @@
+DOMAIN-REGEX,+.cursor-cdn.com
+DOMAIN-REGEX,+.cursor.com
+DOMAIN-REGEX,+.cursor.sh
+DOMAIN-REGEX,+.cursorapi.com

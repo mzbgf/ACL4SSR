@@ -1,0 +1,11 @@
+DOMAIN-REGEX,+.ibkr.com
+DOMAIN-REGEX,+.interactivebrokers.ca
+DOMAIN-REGEX,+.interactivebrokers.com
+DOMAIN-REGEX,+.interactivebrokers.eu
+DOMAIN-REGEX,+.interactivebrokers.ie
+DOMAIN-REGEX,+.interactivebrokers.co.in
+DOMAIN-REGEX,+.interactivebrokers.co.jp
+DOMAIN-REGEX,+.interactivebrokers.co.uk
+DOMAIN-REGEX,+.interactivebrokers.com.au
+DOMAIN-REGEX,+.interactivebrokers.com.hk
+DOMAIN-REGEX,+.interactivebrokers.com.sg

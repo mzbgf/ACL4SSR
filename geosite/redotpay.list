@@ -1,0 +1,5 @@
+DOMAIN-REGEX,+.redotpay.com
+DOMAIN-REGEX,+.redotpay.zendesk.com
+DOMAIN-REGEX,+.pod-15-sunco-ws.zendesk.com
+DOMAIN-REGEX,+.xhpjc6-cdn-settings.appsflyersdk.com
+DOMAIN-REGEX,+.rp-static-apne1.s3.ap-northeast-1.amazonaws.com

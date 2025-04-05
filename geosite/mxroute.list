@@ -1,0 +1,5 @@
+DOMAIN-REGEX,+.mxlogin.com
+DOMAIN-REGEX,+.mxroute.com
+DOMAIN-REGEX,+.mxroutedocs.com
+DOMAIN-REGEX,+.mxroutehelp.com
+DOMAIN-REGEX,+.mxrouting.net

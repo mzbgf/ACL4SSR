@@ -1,0 +1,17 @@
+DOMAIN-REGEX,firebase.google.com
+DOMAIN-REGEX,firebase.googleapis.com
+DOMAIN-REGEX,firebaseappcheck.googleapis.com
+DOMAIN-REGEX,firebasedynamiclinks-ipv4.googleapis.com
+DOMAIN-REGEX,firebasedynamiclinks-ipv6.googleapis.com
+DOMAIN-REGEX,firebasedynamiclinks.googleapis.com
+DOMAIN-REGEX,firebaseinappmessaging.googleapis.com
+DOMAIN-REGEX,firebaseinstallations.googleapis.com
+DOMAIN-REGEX,firebaselogging-pa.googleapis.com
+DOMAIN-REGEX,firebaselogging.googleapis.com
+DOMAIN-REGEX,firebaseperusertopics-pa.googleapis.com
+DOMAIN-REGEX,firebaseremoteconfig.googleapis.com
+DOMAIN-REGEX,+.firebase.com
+DOMAIN-REGEX,+.firebase.io
+DOMAIN-REGEX,+.firebaseapp.com
+DOMAIN-REGEX,+.firebaseio.com
+DOMAIN-REGEX,firebase-settings.crashlytics.com

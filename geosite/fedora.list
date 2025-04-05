@@ -1,0 +1,5 @@
+DOMAIN-REGEX,+.getfedora.org
+DOMAIN-REGEX,+.fedoraforum.org
+DOMAIN-REGEX,+.fedorapeople.org
+DOMAIN-REGEX,+.fedoraproject.org
+DOMAIN-REGEX,+.fedoramagazine.org

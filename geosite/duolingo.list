@@ -1,0 +1,5 @@
+DOMAIN-REGEX,+.duolingo.com
+DOMAIN-REGEX,+.duolingo.cn
+DOMAIN-REGEX,+.ads-api.duolingo.com
+DOMAIN-REGEX,+.metrics.duolingo.com
+DOMAIN-REGEX,+.analytics.vpc.duolingo.com

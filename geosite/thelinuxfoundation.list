@@ -1,0 +1,17 @@
+DOMAIN-REGEX,amp.akamaized.net
+DOMAIN-REGEX,+.lfai.foundation
+DOMAIN-REGEX,+.linuxfoundation.org
+DOMAIN-REGEX,+.kernel.org
+DOMAIN-REGEX,+.linux.org
+DOMAIN-REGEX,+.openjsf.org
+DOMAIN-REGEX,+.mochajs.org
+DOMAIN-REGEX,+.nodejs.org
+DOMAIN-REGEX,+.amp.dev
+DOMAIN-REGEX,+.ampproject.com
+DOMAIN-REGEX,+.ampproject.net
+DOMAIN-REGEX,+.ampproject.org
+DOMAIN-REGEX,+.electronjs.org
+DOMAIN-REGEX,+.jquery.com
+DOMAIN-REGEX,+.jquerymobile.com
+DOMAIN-REGEX,+.jqueryui.com
+DOMAIN-REGEX,cdn.ampproject.org

@@ -1,0 +1,4 @@
+DOMAIN-REGEX,+.deps.dev
+DOMAIN-REGEX,+.deps.info
+DOMAIN-REGEX,+.opensourceinsight.dev
+DOMAIN-REGEX,+.opensourceinsights.dev

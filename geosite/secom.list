@@ -1,0 +1,5 @@
+DOMAIN-REGEX,+.secomtrust.net
+DOMAIN-REGEX,+.secom.co.jp
+DOMAIN-REGEX,+.cybertrust.co.jp
+DOMAIN-REGEX,+.cybertrust.ne.jp
+DOMAIN-REGEX,+.managedpki.ne.jp

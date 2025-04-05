@@ -1,0 +1,13 @@
+DOMAIN-REGEX,ai.google.dev
+DOMAIN-REGEX,alkalicore-pa.clients6.google.com
+DOMAIN-REGEX,alkalimakersuite-pa.clients6.google.com
+DOMAIN-REGEX,+.deepmind.com
+DOMAIN-REGEX,+.deepmind.google
+DOMAIN-REGEX,+.generativeai.google
+DOMAIN-REGEX,+.geller-pa.googleapis.com
+DOMAIN-REGEX,+.generativelanguage.googleapis.com
+DOMAIN-REGEX,+.proactivebackend-pa.googleapis.com
+DOMAIN-REGEX,+.makersuite.google.com
+DOMAIN-REGEX,+.aistudio.google.com
+DOMAIN-REGEX,+.bard.google.com
+DOMAIN-REGEX,+.gemini.google.com

@@ -1,0 +1,3 @@
+DOMAIN-REGEX,+.ads.yahoo.com
+DOMAIN-REGEX,+.gemini.yahoo.com
+DOMAIN-REGEX,+.ysm.yahoo.com

@@ -1,0 +1,15 @@
+DOMAIN-REGEX,+.gifshow.com
+DOMAIN-REGEX,+.inkwai.com
+DOMAIN-REGEX,+.ksapisrv.com
+DOMAIN-REGEX,+.kuaishou.com
+DOMAIN-REGEX,+.kwaizt.com
+DOMAIN-REGEX,+.kuaishouzt.com
+DOMAIN-REGEX,+.kwimgs.com
+DOMAIN-REGEX,+.yximgs.com
+DOMAIN-REGEX,+.adbkwai.com
+DOMAIN-REGEX,+.adkwai.com
+DOMAIN-REGEX,+.adukwai.com
+DOMAIN-REGEX,+.e.kuaishou.cn
+DOMAIN-REGEX,+.e.kuaishou.com
+DOMAIN-REGEX,log-sdk.gifshow.com
+DOMAIN-REGEX,wlog.kuaishou.com

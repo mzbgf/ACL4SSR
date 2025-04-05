@@ -1,0 +1,6 @@
+DOMAIN-REGEX,+.mastercard.cn
+DOMAIN-REGEX,+.mastercard.com.cn
+DOMAIN-REGEX,+.priceless.com.cn
+DOMAIN-REGEX,+.pricelessbeijing.cn
+DOMAIN-REGEX,+.pricelessbeijing.com.cn
+DOMAIN-REGEX,+.travelex.com.cn

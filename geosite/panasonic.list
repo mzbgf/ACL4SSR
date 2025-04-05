@@ -1,0 +1,5 @@
+DOMAIN-REGEX,+.panasonic
+DOMAIN-REGEX,+.panasonic.com
+DOMAIN-REGEX,+.panasonic.jp
+DOMAIN-REGEX,+.technics.com
+DOMAIN-REGEX,+.panasonic.cn

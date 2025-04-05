@@ -1,0 +1,9 @@
+DOMAIN-REGEX,+.nyt.com
+DOMAIN-REGEX,+.nyt.net
+DOMAIN-REGEX,+.nytchina.com
+DOMAIN-REGEX,+.nytcn.me
+DOMAIN-REGEX,+.nytco.com
+DOMAIN-REGEX,+.nyti.ms
+DOMAIN-REGEX,+.nytimes.com
+DOMAIN-REGEX,+.nytstyle.com
+DOMAIN-REGEX,+.timestalks.com

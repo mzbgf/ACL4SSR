@@ -1,0 +1,4 @@
+DOMAIN-REGEX,prd-priconne-redive.akamaized.net
+DOMAIN-REGEX,+.priconne-redive.jp
+DOMAIN-REGEX,+.api-priconne-redive.cygames.jp
+DOMAIN-REGEX,+.omotenashi.cygames.jp

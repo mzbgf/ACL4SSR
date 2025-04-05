@@ -1,0 +1,15 @@
+DOMAIN-REGEX,+.citic
+DOMAIN-REGEX,+.chinaamc.com
+DOMAIN-REGEX,+.citicbank.com
+DOMAIN-REGEX,+.citiccapital.com
+DOMAIN-REGEX,+.citiciam.com
+DOMAIN-REGEX,+.citicifh.com
+DOMAIN-REGEX,+.citicsf.com
+DOMAIN-REGEX,+.clsa.com
+DOMAIN-REGEX,+.csc108.com
+DOMAIN-REGEX,+.ecitic.com
+DOMAIN-REGEX,+.citic-prudential.com.cn
+DOMAIN-REGEX,+.citicprufunds.com.cn
+DOMAIN-REGEX,+.citics.com.hk
+DOMAIN-REGEX,+.cncbinternational.com
+DOMAIN-REGEX,+.csci.hk

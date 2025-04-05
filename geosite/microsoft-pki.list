@@ -1,0 +1,6 @@
+DOMAIN-REGEX,crl.microsoft.com
+DOMAIN-REGEX,mscrl.microsoft.com
+DOMAIN-REGEX,ocsp.microsoft.com
+DOMAIN-REGEX,oneocsp.microsoft.com
+DOMAIN-REGEX,+.msocsp.com
+DOMAIN-REGEX,www.microsoft.com

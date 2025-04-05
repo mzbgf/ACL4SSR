@@ -1,0 +1,4 @@
+DOMAIN-REGEX,+.ctan.org
+DOMAIN-REGEX,+.latex-project.org
+DOMAIN-REGEX,+.miktex.org
+DOMAIN-REGEX,+.tug.org

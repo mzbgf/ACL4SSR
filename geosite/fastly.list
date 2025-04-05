@@ -1,0 +1,8 @@
+DOMAIN-REGEX,+.fastly-edge.com
+DOMAIN-REGEX,+.fastly-terrarium.com
+DOMAIN-REGEX,+.fastly.com
+DOMAIN-REGEX,+.fastly.io
+DOMAIN-REGEX,+.fastly.net
+DOMAIN-REGEX,+.fastlylabs.com
+DOMAIN-REGEX,+.fastlylb.net
+DOMAIN-REGEX,+.zencdn.net

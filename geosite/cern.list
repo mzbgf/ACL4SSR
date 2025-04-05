@@ -1,0 +1,7 @@
+DOMAIN-REGEX,+.cern
+DOMAIN-REGEX,+.ams02.space
+DOMAIN-REGEX,+.cern.ch
+DOMAIN-REGEX,+.cixp.net
+DOMAIN-REGEX,+.dotcernpilot.info
+DOMAIN-REGEX,+.ippog.org
+DOMAIN-REGEX,+.linearcollider.org

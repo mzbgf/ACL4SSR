@@ -1,0 +1,8 @@
+DOMAIN-REGEX,+.acousticbrainz.org
+DOMAIN-REGEX,+.bookbrainz.org
+DOMAIN-REGEX,+.coverartarchive.org
+DOMAIN-REGEX,+.critiquebrainz.org
+DOMAIN-REGEX,+.listenbrainz.org
+DOMAIN-REGEX,+.messybrainz.org
+DOMAIN-REGEX,+.metabrainz.org
+DOMAIN-REGEX,+.musicbrainz.org

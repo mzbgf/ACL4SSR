@@ -1,0 +1,13 @@
+DOMAIN-REGEX,tesla-cdn.thron.com
+DOMAIN-REGEX,+.solarcity.com
+DOMAIN-REGEX,+.tesla.com
+DOMAIN-REGEX,+.tesla.services
+DOMAIN-REGEX,+.teslaenergy.services
+DOMAIN-REGEX,+.teslamotors.com
+DOMAIN-REGEX,+.teslazta.net
+DOMAIN-REGEX,+.ts.la
+DOMAIN-REGEX,+.tesla.cn
+DOMAIN-REGEX,+.tesla.com.cn
+DOMAIN-REGEX,+.teslamotors.cn
+DOMAIN-REGEX,+.teslamotors.com.cn
+DOMAIN-REGEX,tesla-cdn.thron.cn

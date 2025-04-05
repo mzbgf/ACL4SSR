@@ -1,0 +1,11 @@
+DOMAIN-REGEX,+.bstarstatic.com
+DOMAIN-REGEX,+.bilibili.tv
+DOMAIN-REGEX,+.biliintl.com
+DOMAIN-REGEX,+.upos-bstar1-mirrorakam.akamaized.net
+DOMAIN-REGEX,+.apm-misaka.biliapi.net
+DOMAIN-REGEX,+.p-bstarstatic.akamaized.net
+DOMAIN-REGEX,+.upos-bstar-mirrorakam.akamaized.net
+DOMAIN-REGEX,+.upos-sz-mirrorcosbstar1.bilivideo.com
+DOMAIN-REGEX,+.upos-sz-mirroralibstar1.bilivideo.com
+DOMAIN-REGEX,+.app.global.bilibili.com
+DOMAIN-REGEX,+.api.global.bilibili.com

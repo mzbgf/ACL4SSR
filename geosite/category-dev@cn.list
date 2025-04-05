@@ -1,0 +1,11 @@
+DOMAIN-REGEX,+.researchkit.cn
+DOMAIN-REGEX,+.researchkit.com.cn
+DOMAIN-REGEX,+.swiftui.cn
+DOMAIN-REGEX,+.swiftui.com.cn
+DOMAIN-REGEX,cdn.ampproject.org
+DOMAIN-REGEX,+.cdn.jetbrains.com
+DOMAIN-REGEX,+.download-cdn.jetbrains.com.cn
+DOMAIN-REGEX,+.microsoftreactor.cn
+DOMAIN-REGEX,+.microsoftreactor.com.cn
+DOMAIN-REGEX,+.reactorms.com.cn
+DOMAIN-REGEX,firebase-settings.crashlytics.com

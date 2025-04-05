@@ -1,0 +1,17 @@
+DOMAIN-REGEX,+.steamcontent.com
+DOMAIN-REGEX,+.steamserver.net
+DOMAIN-REGEX,+.steamusercontent.com
+DOMAIN-REGEX,+.csgo.wmsj.cn
+DOMAIN-REGEX,+.dota2.wmsj.cn
+DOMAIN-REGEX,+.wmsjsteam.com
+DOMAIN-REGEX,+.dl.steam.clngaa.com
+DOMAIN-REGEX,+.dl.steam.ksyna.com
+DOMAIN-REGEX,+.st.dl.bscstorage.net
+DOMAIN-REGEX,+.st.dl.eccdnx.com
+DOMAIN-REGEX,+.st.dl.pinyuncloud.com
+DOMAIN-REGEX,+.steampipe.steamcontent.tnkjmec.com
+DOMAIN-REGEX,+.steampowered.com.8686c.com
+DOMAIN-REGEX,+.steamstatic.com.8686c.com
+DOMAIN-REGEX,xz.pphimalayanrt.com
+DOMAIN-REGEX,+.steamchina.com
+DOMAIN-REGEX,+.gstore.val.manlaxy.com

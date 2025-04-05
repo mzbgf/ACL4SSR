@@ -1,0 +1,10 @@
+DOMAIN-REGEX,+.theguardian
+DOMAIN-REGEX,+.dev-guardianapis.com
+DOMAIN-REGEX,+.dev-theguardian.com
+DOMAIN-REGEX,+.gu-web.net
+DOMAIN-REGEX,+.guardianapis.com
+DOMAIN-REGEX,+.theguardian.com
+DOMAIN-REGEX,+.theguardiandns.com
+DOMAIN-REGEX,+.guardianapps.co.uk
+DOMAIN-REGEX,+.guim.co.uk
+DOMAIN-REGEX,+.guimcode.co.uk

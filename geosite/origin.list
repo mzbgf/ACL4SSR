@@ -1,0 +1,9 @@
+DOMAIN-REGEX,cloudsync-prod.s3.amazonaws.com
+DOMAIN-REGEX,origin-a.akamaihd.net
+DOMAIN-REGEX,rtm.tnt-ea.com
+DOMAIN-REGEX,ssl-lvlt.cdn.ea.com
+DOMAIN-REGEX,+.dawngate.com
+DOMAIN-REGEX,+.eastore.com
+DOMAIN-REGEX,+.lordofultima.com
+DOMAIN-REGEX,+.origin.com
+DOMAIN-REGEX,+.origin.tv

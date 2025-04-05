@@ -1,0 +1,15 @@
+DOMAIN-REGEX,+.onedrive
+DOMAIN-REGEX,+.onedriveupdater
+DOMAIN-REGEX,+.sharepoint.com
+DOMAIN-REGEX,+.onedrive.com
+DOMAIN-REGEX,+.1drv.com
+DOMAIN-REGEX,+.sharepointonline.com
+DOMAIN-REGEX,+.livefilestore.com
+DOMAIN-REGEX,+.sharepoint.cn
+DOMAIN-REGEX,+.onedrive.live.com
+DOMAIN-REGEX,+.photos.live.com
+DOMAIN-REGEX,+.spoprod-a.akamaihd.net
+DOMAIN-REGEX,+.storage.live.com
+DOMAIN-REGEX,+.storage.msn.com
+DOMAIN-REGEX,+.oneclient.sfx.ms
+DOMAIN-REGEX,+.skydrive.wns.windows.com

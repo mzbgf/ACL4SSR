@@ -1,0 +1,4 @@
+DOMAIN-REGEX,+.reut.rs
+DOMAIN-REGEX,+.reuters.com
+DOMAIN-REGEX,+.reuters.tv
+DOMAIN-REGEX,+.reutersmedia.net

@@ -1,0 +1,5 @@
+DOMAIN-REGEX,+.launchpad.net
+DOMAIN-REGEX,+.launchpadcontent.net
+DOMAIN-REGEX,+.launchpadlibrarian.com
+DOMAIN-REGEX,+.launchpadlibrarian.net
+DOMAIN-REGEX,+.launchpadlibrarian.org

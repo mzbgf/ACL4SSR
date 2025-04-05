@@ -1,0 +1,5 @@
+DOMAIN-REGEX,gitlab-assets.oss-cn-hongkong.aliyuncs.com
+DOMAIN-REGEX,+.gitlab.com
+DOMAIN-REGEX,+.gitlab.io
+DOMAIN-REGEX,+.gitlab.net
+DOMAIN-REGEX,+.gitlab-static.net

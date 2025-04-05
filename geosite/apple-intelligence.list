@@ -1,0 +1,3 @@
+DOMAIN-REGEX,apple-relay.mask.apple-dns.net
+DOMAIN-REGEX,apple-relay.apple.com
+DOMAIN-REGEX,apple-relay.cloudflare.com

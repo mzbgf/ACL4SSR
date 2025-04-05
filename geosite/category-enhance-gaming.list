@@ -1,0 +1,16 @@
+DOMAIN-REGEX,+.bluestacks.com
+DOMAIN-REGEX,+.maa.plus
+DOMAIN-REGEX,+.prts.plus
+DOMAIN-REGEX,+.poi.moe
+DOMAIN-REGEX,+.thetrackernetwork.com
+DOMAIN-REGEX,+.tracker.gg
+DOMAIN-REGEX,+.tracker.network
+DOMAIN-REGEX,+.playcover.io
+DOMAIN-REGEX,+.fflogs.com
+DOMAIN-REGEX,+.rpglogs.com
+DOMAIN-REGEX,+.playcover.workers.dev
+DOMAIN-REGEX,+.lsplayer.com
+DOMAIN-REGEX,+.yeshen.com
+DOMAIN-REGEX,+.heavenlywind.cc
+DOMAIN-REGEX,+.steampp.net
+DOMAIN-REGEX,+.rpglogs.cn

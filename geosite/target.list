@@ -1,0 +1,3 @@
+DOMAIN-REGEX,+.target
+DOMAIN-REGEX,+.target.com
+DOMAIN-REGEX,+.targetimg1.com

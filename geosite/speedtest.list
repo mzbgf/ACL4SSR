@@ -1,0 +1,12 @@
+DOMAIN-REGEX,www.speedtest.net.cdn.cloudflare.net
+DOMAIN-REGEX,+.cdnst.net
+DOMAIN-REGEX,+.cellmaps.com
+DOMAIN-REGEX,+.ekahau.cloud
+DOMAIN-REGEX,+.ekahau.com
+DOMAIN-REGEX,+.ookla.com
+DOMAIN-REGEX,+.ooklaserver.net
+DOMAIN-REGEX,+.pingtest.net
+DOMAIN-REGEX,+.speedtest.co
+DOMAIN-REGEX,+.speedtest.net
+DOMAIN-REGEX,+.speedtestcustom.com
+DOMAIN-REGEX,+.webtest.net

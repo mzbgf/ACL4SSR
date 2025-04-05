@@ -1,0 +1,4 @@
+DOMAIN-REGEX,fontshop-prod-responsive-images.s3.amazonaws.com
+DOMAIN-REGEX,+.fontbook.com
+DOMAIN-REGEX,+.fontshop.com
+DOMAIN-REGEX,+.fstopimages.com

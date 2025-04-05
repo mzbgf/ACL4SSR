@@ -1,0 +1,5 @@
+DOMAIN-REGEX,+.flickr
+DOMAIN-REGEX,+.flic.kr
+DOMAIN-REGEX,+.flickr.com
+DOMAIN-REGEX,+.flickr.net
+DOMAIN-REGEX,+.staticflickr.com

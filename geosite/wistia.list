@@ -1,0 +1,3 @@
+DOMAIN-REGEX,+.wistia.com
+DOMAIN-REGEX,+.wistia.net
+DOMAIN-REGEX,+.embedwistia-a.akamaihd.net

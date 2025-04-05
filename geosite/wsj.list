@@ -1,0 +1,12 @@
+DOMAIN-REGEX,+.careerjournal.com
+DOMAIN-REGEX,+.collegejournal.com
+DOMAIN-REGEX,+.opinionjournal.com
+DOMAIN-REGEX,+.realestatejournal.com
+DOMAIN-REGEX,+.startupjournal.com
+DOMAIN-REGEX,+.wsj.com
+DOMAIN-REGEX,+.wsj.jobs
+DOMAIN-REGEX,+.wsj.net
+DOMAIN-REGEX,+.wsjmediakit.com
+DOMAIN-REGEX,+.wsjplus.com
+DOMAIN-REGEX,+.wsjshop.com
+DOMAIN-REGEX,+.wsjwine.com

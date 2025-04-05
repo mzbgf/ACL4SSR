@@ -1,0 +1,3 @@
+DOMAIN-REGEX,+.java
+DOMAIN-REGEX,+.java.com
+DOMAIN-REGEX,+.java.net

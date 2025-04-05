@@ -1,0 +1,3 @@
+DOMAIN-REGEX,+.certum.pl
+DOMAIN-REGEX,+.ocsp-certum.com
+DOMAIN-REGEX,+.ocsp-responder.com

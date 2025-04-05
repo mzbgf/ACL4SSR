@@ -1,0 +1,4 @@
+DOMAIN-REGEX,+.devcon.org
+DOMAIN-REGEX,+.ethereum.foundation
+DOMAIN-REGEX,+.ethereum.org
+DOMAIN-REGEX,+.etherscan.io

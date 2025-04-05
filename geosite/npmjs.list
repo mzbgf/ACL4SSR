@@ -1,0 +1,3 @@
+DOMAIN-REGEX,+.npm.community
+DOMAIN-REGEX,+.npmjs.com
+DOMAIN-REGEX,+.npmjs.org

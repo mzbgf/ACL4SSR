@@ -1,0 +1,2 @@
+DOMAIN-REGEX,+.kubernetes.io
+DOMAIN-REGEX,+.k8s.io

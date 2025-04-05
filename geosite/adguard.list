@@ -1,0 +1,16 @@
+DOMAIN-REGEX,+.adguard.app
+DOMAIN-REGEX,+.adguard.com
+DOMAIN-REGEX,+.adguard.info
+DOMAIN-REGEX,+.adguard.io
+DOMAIN-REGEX,+.adguard.org
+DOMAIN-REGEX,+.adtidy.net
+DOMAIN-REGEX,+.adtidy.org
+DOMAIN-REGEX,+.agrd.eu
+DOMAIN-REGEX,+.agrd.io
+DOMAIN-REGEX,+.adguard-dns.com
+DOMAIN-REGEX,+.adguard-dns.io
+DOMAIN-REGEX,+.adguard-mail.com
+DOMAIN-REGEX,+.mask.me
+DOMAIN-REGEX,+.adguardvpn.com
+DOMAIN-REGEX,+.adguard-vpn.com
+DOMAIN-REGEX,+.adguard-vpn.online

@@ -1,0 +1,11 @@
+DOMAIN-REGEX,+.01.org
+DOMAIN-REGEX,+.hyperscan.io
+DOMAIN-REGEX,+.intellinuxgraphics.com
+DOMAIN-REGEX,+.intellinuxgraphics.net
+DOMAIN-REGEX,+.oneapi.com
+DOMAIN-REGEX,+.openvinotoolkit.org
+DOMAIN-REGEX,+.snap-telemetry.io
+DOMAIN-REGEX,+.acpica.com
+DOMAIN-REGEX,+.clearlinux.org
+DOMAIN-REGEX,+.ospray.net
+DOMAIN-REGEX,+.ospray.org

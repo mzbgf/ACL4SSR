@@ -1,0 +1,17 @@
+DOMAIN-REGEX,openaiapi-site.azureedge.net
+DOMAIN-REGEX,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+DOMAIN-REGEX,openaicomproductionae4b.blob.core.windows.net
+DOMAIN-REGEX,production-openaicom-storage.azureedge.net
+DOMAIN-REGEX,+.chatgpt.com
+DOMAIN-REGEX,+.chat.com
+DOMAIN-REGEX,+.oaistatic.com
+DOMAIN-REGEX,+.oaiusercontent.com
+DOMAIN-REGEX,+.openai.com
+DOMAIN-REGEX,+.sora.com
+DOMAIN-REGEX,+.chatgpt.livekit.cloud
+DOMAIN-REGEX,+.host.livekit.cloud
+DOMAIN-REGEX,+.turn.livekit.cloud
+DOMAIN-REGEX,+.openai.com.cdn.cloudflare.net
+DOMAIN-REGEX,o33249.ingest.sentry.io
+DOMAIN-REGEX,openaicom.imgix.net
+DOMAIN-REGEX,browser-intake-datadoghq.com

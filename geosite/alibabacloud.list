@@ -1,0 +1,8 @@
+DOMAIN-REGEX,+.alibabacloud.com
+DOMAIN-REGEX,+.alicloud.com
+DOMAIN-REGEX,+.alibabacloud.co.in
+DOMAIN-REGEX,+.alibabacloud.com.au
+DOMAIN-REGEX,+.alibabacloud.com.hk
+DOMAIN-REGEX,+.alibabacloud.com.my
+DOMAIN-REGEX,+.alibabacloud.com.sg
+DOMAIN-REGEX,+.alibabacloud.com.tw

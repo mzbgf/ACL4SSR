@@ -1,0 +1,6 @@
+DOMAIN-REGEX,+.apple-icloud.cn
+DOMAIN-REGEX,+.appleicloud.cn
+DOMAIN-REGEX,+.icloud-apple.cn
+DOMAIN-REGEX,+.icloud.com.cn
+DOMAIN-REGEX,+.icloud.net.cn
+DOMAIN-REGEX,+.icloudapple.cn

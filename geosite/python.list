@@ -1,0 +1,6 @@
+DOMAIN-REGEX,+.pycon.org
+DOMAIN-REGEX,+.pypa.io
+DOMAIN-REGEX,+.pypi.io
+DOMAIN-REGEX,+.pypi.org
+DOMAIN-REGEX,+.python.org
+DOMAIN-REGEX,+.pythonhosted.org

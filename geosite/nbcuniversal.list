@@ -1,0 +1,17 @@
+DOMAIN-REGEX,+.dreamworks.com
+DOMAIN-REGEX,+.cnbc.com
+DOMAIN-REGEX,+.cnbcfm.com
+DOMAIN-REGEX,+.msnbc.com
+DOMAIN-REGEX,+.nbc.co
+DOMAIN-REGEX,+.nbc.com
+DOMAIN-REGEX,+.nbcnews.com
+DOMAIN-REGEX,+.nbcolympics.com
+DOMAIN-REGEX,+.nbcsports.com
+DOMAIN-REGEX,+.nbcuni.com
+DOMAIN-REGEX,+.nbcuniversal.com
+DOMAIN-REGEX,+.s-nbcnews.com
+DOMAIN-REGEX,+.peacocktv.com
+DOMAIN-REGEX,+.universalorlando.com
+DOMAIN-REGEX,+.universalpictures.com
+DOMAIN-REGEX,+.universalpicturesinternational.com
+DOMAIN-REGEX,+.universalstudioshollywood.com

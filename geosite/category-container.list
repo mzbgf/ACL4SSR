@@ -1,0 +1,9 @@
+DOMAIN-REGEX,+.azurecr.io
+DOMAIN-REGEX,+.docker.io
+DOMAIN-REGEX,+.ecr.aws
+DOMAIN-REGEX,+.gcr.io
+DOMAIN-REGEX,+.ghcr.io
+DOMAIN-REGEX,+.quay.io
+DOMAIN-REGEX,+.mcr.microsoft.com
+DOMAIN-REGEX,+.registry.gitlab.com
+DOMAIN-REGEX,+.registry.k8s.io

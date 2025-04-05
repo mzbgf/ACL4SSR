@@ -1,0 +1,10 @@
+DOMAIN-REGEX,a.ppy.sh
+DOMAIN-REGEX,assets.ppy.sh
+DOMAIN-REGEX,c.ppy.sh
+DOMAIN-REGEX,osu.ppy.sh
+DOMAIN-REGEX,m1.ppy.sh
+DOMAIN-REGEX,lazer.ppy.sh
+DOMAIN-REGEX,notify.ppy.sh
+DOMAIN-REGEX,sentry.ppy.sh
+DOMAIN-REGEX,spectator.ppy.sh
+DOMAIN-REGEX,+.ppy.sh

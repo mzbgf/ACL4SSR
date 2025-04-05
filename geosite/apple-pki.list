@@ -1,0 +1,9 @@
+DOMAIN-REGEX,certs-lb.apple.com.akadns.net
+DOMAIN-REGEX,certs.apple.com
+DOMAIN-REGEX,crl-lb.apple.com.akadns.net
+DOMAIN-REGEX,crl.apple.com
+DOMAIN-REGEX,ocsp-lb.apple.com.akadns.net
+DOMAIN-REGEX,ocsp.apple.com
+DOMAIN-REGEX,ocsp2-lb.apple.com.akadns.net
+DOMAIN-REGEX,ocsp2.apple.com
+DOMAIN-REGEX,valid.apple.com

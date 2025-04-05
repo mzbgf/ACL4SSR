@@ -1,0 +1,4 @@
+DOMAIN-REGEX,+.ikea.cn
+DOMAIN-REGEX,+.ingka-dt.cn
+DOMAIN-REGEX,+.ingka-internal.cn
+DOMAIN-REGEX,+.ingka-system.cn

@@ -1,0 +1,4 @@
+DOMAIN-REGEX,+.anaconda.cloud
+DOMAIN-REGEX,+.anaconda.com
+DOMAIN-REGEX,+.anaconda.org
+DOMAIN-REGEX,+.conda.io

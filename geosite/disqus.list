@@ -1,0 +1,3 @@
+DOMAIN-REGEX,+.disqus.com
+DOMAIN-REGEX,+.disquscdn.com
+DOMAIN-REGEX,+.disqusservice.com

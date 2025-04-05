@@ -1,0 +1,3 @@
+DOMAIN-REGEX,+.lencr.org
+DOMAIN-REGEX,+.letsencrypt.com
+DOMAIN-REGEX,+.letsencrypt.org

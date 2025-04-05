@@ -1,0 +1,15 @@
+DOMAIN-REGEX,+.battlebreakers.com
+DOMAIN-REGEX,+.eac-cdn.com
+DOMAIN-REGEX,+.easy.ac
+DOMAIN-REGEX,+.easyanticheat.net
+DOMAIN-REGEX,+.epicgames.com
+DOMAIN-REGEX,+.epicgames.dev
+DOMAIN-REGEX,+.epicgamescdn.com
+DOMAIN-REGEX,+.fortnite.com
+DOMAIN-REGEX,+.paragon.com
+DOMAIN-REGEX,+.playparagon.com
+DOMAIN-REGEX,+.roborecall.com
+DOMAIN-REGEX,+.shadowcomplex.com
+DOMAIN-REGEX,+.spyjinx.com
+DOMAIN-REGEX,+.unrealengine.com
+DOMAIN-REGEX,+.unrealtournament.com

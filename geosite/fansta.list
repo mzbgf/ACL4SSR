@@ -1,0 +1,5 @@
+DOMAIN-REGEX,misa-prod.s3.ap-northeast-1.amazonaws.com
+DOMAIN-REGEX,+.fansta.me
+DOMAIN-REGEX,+.aga-expo.com
+DOMAIN-REGEX,+.cosfans-tw.com
+DOMAIN-REGEX,+.2023aga.oen.tw

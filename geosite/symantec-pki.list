@@ -1,0 +1,5 @@
+DOMAIN-REGEX,+.symauth.com
+DOMAIN-REGEX,+.symcb.com
+DOMAIN-REGEX,+.symcd.com
+DOMAIN-REGEX,+.pki.symantec.com
+DOMAIN-REGEX,+.ws.symantec.com

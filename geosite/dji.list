@@ -1,0 +1,6 @@
+DOMAIN-REGEX,+.dji.com
+DOMAIN-REGEX,+.dji.net
+DOMAIN-REGEX,+.djicdn.com
+DOMAIN-REGEX,+.djiops.com
+DOMAIN-REGEX,+.djiservice.org
+DOMAIN-REGEX,+.skypixel.com

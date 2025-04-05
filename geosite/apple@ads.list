@@ -1,0 +1,4 @@
+DOMAIN-REGEX,+.api-adservices.apple.com
+DOMAIN-REGEX,+.iadsdk.apple.com
+DOMAIN-REGEX,+.iad.apple.com
+DOMAIN-REGEX,+.qwapi.com

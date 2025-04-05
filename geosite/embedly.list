@@ -1,0 +1,3 @@
+DOMAIN-REGEX,+.embed.ly
+DOMAIN-REGEX,+.embedly.com
+DOMAIN-REGEX,+.playerjs.io

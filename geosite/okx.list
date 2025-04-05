@@ -1,0 +1,6 @@
+DOMAIN-REGEX,+.okex.com
+DOMAIN-REGEX,+.okx.com
+DOMAIN-REGEX,+.okx-dns.com
+DOMAIN-REGEX,+.okx-dns1.com
+DOMAIN-REGEX,+.okx-dns2.com
+DOMAIN-REGEX,+.oklink.com

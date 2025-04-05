@@ -1,0 +1,7 @@
+DOMAIN-REGEX,+.embl-hamburg.de
+DOMAIN-REGEX,+.embl.de
+DOMAIN-REGEX,+.embl.fr
+DOMAIN-REGEX,+.embl.it
+DOMAIN-REGEX,+.embl.org
+DOMAIN-REGEX,+.emblstatic.net
+DOMAIN-REGEX,+.ebi.ac.uk

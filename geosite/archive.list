@@ -1,0 +1,7 @@
+DOMAIN-REGEX,+.archive-it.org
+DOMAIN-REGEX,+.archive.org
+DOMAIN-REGEX,+.archive.ph
+DOMAIN-REGEX,+.archive.today
+DOMAIN-REGEX,+.openlibrary.org
+DOMAIN-REGEX,+.4pcdn.org
+DOMAIN-REGEX,+.4plebs.org

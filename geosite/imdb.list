@@ -1,0 +1,5 @@
+DOMAIN-REGEX,+.imdb
+DOMAIN-REGEX,+.boxofficemojo.com
+DOMAIN-REGEX,+.imdb.com
+DOMAIN-REGEX,+.imdb.to
+DOMAIN-REGEX,+.media-imdb.com

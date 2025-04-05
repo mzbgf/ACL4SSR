@@ -1,0 +1,4 @@
+DOMAIN-REGEX,+.ubuntu.com
+DOMAIN-REGEX,+.ubuntu.net
+DOMAIN-REGEX,+.ubuntuforums.org
+DOMAIN-REGEX,+.ubuntu-touch.io

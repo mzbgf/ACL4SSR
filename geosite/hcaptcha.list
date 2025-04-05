@@ -1,0 +1,3 @@
+DOMAIN-REGEX,+.botstop.com
+DOMAIN-REGEX,+.hcaptcha.com
+DOMAIN-REGEX,+.hcaptchastatus.com

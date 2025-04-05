@@ -1,0 +1,12 @@
+DOMAIN-REGEX,fandom.zendesk.com
+DOMAIN-REGEX,+.cursecdn.com
+DOMAIN-REGEX,+.fandom.com
+DOMAIN-REGEX,+.wikia.com
+DOMAIN-REGEX,+.wikia.org
+DOMAIN-REGEX,+.dndbeyond.com
+DOMAIN-REGEX,+.futhead.com
+DOMAIN-REGEX,+.gamepedia.com
+DOMAIN-REGEX,+.muthead.com
+DOMAIN-REGEX,+.cortexrpg.com
+DOMAIN-REGEX,+.fanatical.com
+DOMAIN-REGEX,+.wikia.nocookie.net

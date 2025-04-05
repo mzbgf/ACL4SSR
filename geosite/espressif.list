@@ -1,0 +1,3 @@
+DOMAIN-REGEX,+.espressif.com
+DOMAIN-REGEX,+.esp32.com
+DOMAIN-REGEX,+.esp8266.com
